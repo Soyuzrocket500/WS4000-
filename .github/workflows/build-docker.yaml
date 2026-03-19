@@ -20,7 +20,7 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: |
-            ghcr.io/mwood77/ws4kp-international
+            ghcr.io/Soyuzrocket500/WS4000-
           flavor: |
             latest=false
           tags: |
